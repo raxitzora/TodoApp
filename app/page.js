@@ -4,9 +4,9 @@ export default async function Home() {
   
   return (
 <div>
-  <button>
-    welcome to todo app
-  </button>
+  <main>
+    <TodoForm />
+  </main>
 
   
 </div>
